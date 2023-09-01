@@ -63,7 +63,7 @@ header h1 {
 }
 
 section#conteudo{
-    width: 50vw;
+    width: 60vw;
     background-color: white;
     margin: auto;
     margin-bottom: 5px;
@@ -72,7 +72,7 @@ section#conteudo{
 section#conteudo p {
     text-align: justify;
     line-height: 1.5;
-    font-size: 0.9em;
+    font-size: 1em;
 } 
 
 input {
